@@ -50,6 +50,6 @@ A aplicação demonstra a integração eficaz entre o front-end, desenvolvido co
 Clone o repositório:
 
  ```bash
-front-end: https://github.com/JoaoFelipe76/ProductInventory-System-frontend.git 
+frontend: https://github.com/JoaoFelipe76/ProductInventory-System-frontend.git 
 backend : https://github.com/JoaoFelipe76/ProductInventory-System-backend.git
 
