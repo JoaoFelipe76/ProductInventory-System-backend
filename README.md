@@ -51,5 +51,5 @@ Clone o repositório:
 
  ```bash
 frontend: https://github.com/JoaoFelipe76/ProductInventory-System-frontend.git 
-backend : https://github.com/JoaoFelipe76/ProductInventory-System-backend.git
+backend: https://github.com/JoaoFelipe76/ProductInventory-System-backend.git
 
